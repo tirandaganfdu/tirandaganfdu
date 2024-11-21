@@ -19,5 +19,5 @@ I am a voracious learner: I watched many many hours of content every day, and my
 
 I teach AI at FDU in Teaneck, NJ and live in Union County, New Jersey.
 
-- 🔭 I’m currently working on RAG applications for real worl dbusiness problems
+- 🔭 I’m currently working on RAG applications for real world business problems
 - 🌱 I’m currently learning advanced features in LangChain, using Cursor.AI, Unstructured.AI and more
